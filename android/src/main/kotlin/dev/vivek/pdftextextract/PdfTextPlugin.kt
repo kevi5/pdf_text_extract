@@ -1,4 +1,4 @@
-package dev.aluc.pdf_text
+package dev.vivek.pdftextextract
 
 
 import android.os.Handler

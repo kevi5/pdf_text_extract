@@ -1,4 +1,4 @@
-group 'dev.aluc.pdf_text'
+group 'dev.vivek.pdftextextract'
 version '1.0-SNAPSHOT'
 
 buildscript {

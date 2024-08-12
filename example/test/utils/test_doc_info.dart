@@ -1,4 +1,4 @@
-import 'package:pdf_text/pdf_text.dart';
+import 'package:pdf_text_extract/pdf_text_extract.dart';
 
 class TestDocInfo {
   final String? title;
